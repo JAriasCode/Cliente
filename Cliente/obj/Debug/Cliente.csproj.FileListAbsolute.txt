@@ -1,0 +1,9 @@
+D:\Proyectos\PruebasSocket\Cliente\Cliente\bin\Debug\Cliente.exe.config
+D:\Proyectos\PruebasSocket\Cliente\Cliente\bin\Debug\Cliente.exe
+D:\Proyectos\PruebasSocket\Cliente\Cliente\bin\Debug\Cliente.pdb
+D:\Proyectos\PruebasSocket\Cliente\Cliente\obj\Debug\Cliente.csprojAssemblyReference.cache
+D:\Proyectos\PruebasSocket\Cliente\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+D:\Proyectos\PruebasSocket\Cliente\Cliente\obj\Debug\Cliente.csproj.GenerateResource.cache
+D:\Proyectos\PruebasSocket\Cliente\Cliente\obj\Debug\Cliente.exe
+D:\Proyectos\PruebasSocket\Cliente\Cliente\obj\Debug\Cliente.pdb
+D:\Proyectos\PruebasSocket\Cliente\Cliente\obj\Debug\Cliente.Cliente.resources
